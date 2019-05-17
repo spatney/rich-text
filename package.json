@@ -1,0 +1,23 @@
+{
+  "name": "rt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/http-server/bin/http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spatney/rich-text.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spatney/rich-text/issues"
+  },
+  "homepage": "https://github.com/spatney/rich-text#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
